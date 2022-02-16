@@ -1,3 +1,3 @@
 Olá... eu sou o Alex.
 
-Sempre buscando inovação.
+Estudante de tecnologia e sempre buscando inovação.
