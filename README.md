@@ -1,3 +1,3 @@
-Olá... eu sou o Alex
+Olá... eu sou o Alex.
 
 Sempre buscando inovação.
