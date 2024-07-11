@@ -1,3 +1,3 @@
 Hey... I'm Alex.
 
-Technology students are exploring innovative solutions.
+Developer and technology student who seeks innovative solutions.
