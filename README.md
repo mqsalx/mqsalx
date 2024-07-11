@@ -1,3 +1,3 @@
 Hey... I'm Alex.
 
-Technology student exploring innovations...
+Technology students are exploring innovative solutions.
