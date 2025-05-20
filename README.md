@@ -78,7 +78,7 @@ I continuously seek to refine my skills and apply best practices to develop reli
 </br>
 </br>
 <p align="center">
-  <img src="https://img.shields.io/badge/🧩%20Test%20You%20Sight%20🧩-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🧩%20Test%20Your%20Sight%20🧩-black?style=for-the-badge">
 </p>
 
 </br>
